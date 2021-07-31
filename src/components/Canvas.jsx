@@ -28,8 +28,6 @@ const Canvas = () => {
     }
   }, [tool, setIsModal]);
 
-  console.log(tool, shapeTool, action);
-
   const handleMouseDown = (e) => {
     const pos = e.target.getStage().getPointerPosition();
 
