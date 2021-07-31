@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/simpleboard/static/css/main.0049d9d9.chunk.css",
-    "main.js": "/simpleboard/static/js/main.c1a8fe1c.chunk.js",
-    "main.js.map": "/simpleboard/static/js/main.c1a8fe1c.chunk.js.map",
+    "main.css": "/simpleboard/static/css/main.85d564fe.chunk.css",
+    "main.js": "/simpleboard/static/js/main.cda90a5d.chunk.js",
+    "main.js.map": "/simpleboard/static/js/main.cda90a5d.chunk.js.map",
     "runtime-main.js": "/simpleboard/static/js/runtime-main.a8fd3562.js",
     "runtime-main.js.map": "/simpleboard/static/js/runtime-main.a8fd3562.js.map",
     "static/js/2.0684185e.chunk.js": "/simpleboard/static/js/2.0684185e.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.3f9f099a.chunk.js": "/simpleboard/static/js/3.3f9f099a.chunk.js",
     "static/js/3.3f9f099a.chunk.js.map": "/simpleboard/static/js/3.3f9f099a.chunk.js.map",
     "index.html": "/simpleboard/index.html",
-    "static/css/main.0049d9d9.chunk.css.map": "/simpleboard/static/css/main.0049d9d9.chunk.css.map",
+    "static/css/main.85d564fe.chunk.css.map": "/simpleboard/static/css/main.85d564fe.chunk.css.map",
     "static/js/2.0684185e.chunk.js.LICENSE.txt": "/simpleboard/static/js/2.0684185e.chunk.js.LICENSE.txt",
     "static/media/circle.4478e008.png": "/simpleboard/static/media/circle.4478e008.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a8fd3562.js",
     "static/js/2.0684185e.chunk.js",
-    "static/css/main.0049d9d9.chunk.css",
-    "static/js/main.c1a8fe1c.chunk.js"
+    "static/css/main.85d564fe.chunk.css",
+    "static/js/main.cda90a5d.chunk.js"
   ]
 }
