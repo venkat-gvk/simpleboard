@@ -173,9 +173,7 @@ const Canvas = () => {
         onMouseUp={handleMouseUp}
         onTouchStart={handleMouseDown}
         onTouchMove={handleMouseMove}
-        onTouchEnd={handleMouseUp}
-        // draggable={tool === 'drag'}
-        className="border-4 border-red-500">
+        onTouchEnd={handleMouseUp}>
         <Layer>
           {freeDraw.map((line, i) => (
             <Line
